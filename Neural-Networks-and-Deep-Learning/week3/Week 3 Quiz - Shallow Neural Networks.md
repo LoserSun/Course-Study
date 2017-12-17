@@ -80,10 +80,14 @@ What will be B.shape?
 - W[2] will have shape (1, 4)
 - b[2] will have shape (1, 1)
 
-Note: ![20171212_01](Programming Assignments//images//20171212_01.png)
+Note: 
+
+![20171212_01](Programming Assignments//images//20171212_01.png)
 
 ## 10. In the same network as the previous question, what are the dimensions of Z^[1] and A^[1]?
 
 - Z[1] and A[1] are (4,m)
 
-Note:  ![20171212_01](Programming Assignments//images//20171212_01.png)
+Note:  
+
+![20171212_01](Programming Assignments//images//20171212_01.png)
